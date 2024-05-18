@@ -1,4 +1,3 @@
-
 --[[
 	WARNING: Heads up! This script has not been verified by ScriptBlox. Use at your own risk!
 ]]
@@ -90,7 +89,7 @@ local SelectPart = "Head"
 local HBSizeX = 10
 local HBSizeY = 10
 local HBSizeZ = 10
-local HBTrans = 1.0
+local HBTrans = 0.6
 
 local PurpleColor = BrickColor.new("Bright red")
 
