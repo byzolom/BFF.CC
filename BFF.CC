@@ -4,8 +4,8 @@ local RunService = game:GetService("RunService")
 local Camera = workspace.CurrentCamera
 local LocalPlayer = Players.LocalPlayer
 
-local FOVRadius = 200
-local AimSpeed = 2 -- lower = faster
+local FOVRadius = 100
+local AimSpeed = 9 -- lower = faster
 
 local circle
 if Drawing then
